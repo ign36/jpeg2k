@@ -21,3 +21,7 @@ fn main() {
   img.save("out.png")?;
 }
 ```
+
+## Mirror Notice
+
+This repository is a mirror of the original project. Original authorship and commit history are preserved.
